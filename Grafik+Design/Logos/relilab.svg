@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs>
+<linearGradient y1="512" id="LinearGradient" x1="34.5" y2="512" x2="989.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)">
+<stop stop-color="#34b2f6" offset="0.0242718"/>
+<stop stop-color="#d225f8" offset="1"/>
+</linearGradient>
+<linearGradient y1="512.936" id="LinearGradient_2" x1="93.3161" y2="512.936" x2="667.29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.04534 0 0 0.999993 -4.2313 0.00281047)">
+<stop stop-color="#d225f8" offset="0"/>
+<stop stop-color="#ff8103" offset="1"/>
+</linearGradient>
+</defs>
+<g id="Ebene 1" vectornator:layerName="Ebene 1">
+<path d="M193.667+352.833C106.14+352.833+34.5+424.474+34.5+512C34.5+599.526+106.14+671.167+193.667+671.167L830.333+671.167C917.86+671.167+989.5+599.526+989.5+512C989.5+424.474+917.86+352.833+830.333+352.833L193.667+352.833ZM607.5+416.5L830.333+416.5C883.447+416.5+925.833+458.887+925.833+512C925.833+565.113+883.447+607.5+830.333+607.5L607.5+607.5L607.5+416.5Z" opacity="1" fill="url(#LinearGradient)"/>
+<path stroke="#000000" stroke-width="2" d="M193.316+417.273C138.326+417.273+93.3161+460.33+93.3161+512.935C93.3161+565.54+138.326+608.597+193.316+608.597L593.316+608.597C648.306+608.597+693.316+565.54+693.316+512.935C693.316+460.33+648.306+417.273+593.316+417.273L193.316+417.273Z" fill="url(#LinearGradient_2)" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+<text x="0" font-family="YanoneKaffeesatz-Bold" y="0" text-anchor="start" vectornator:text="relilab" fill="#ffffff" font-size="144" vectornator:width="470.146" opacity="1" transform="matrix(1 0 0 1 184.907 416.744)">
+<tspan x="0" y="138" textLength="260.784">
+relilab</tspan>
+</text>
+</g>
+</svg>
