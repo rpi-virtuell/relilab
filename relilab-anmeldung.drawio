@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T12:42:14.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_L7emYQRyXq-Wc86wfyQ" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T12:53:37.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="m6m4p62bbPVgjTe8xfNl" version="14.6.11" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1985" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
@@ -141,6 +141,12 @@
         </mxCell>
         <mxCell id="uCITPKa6TO3P0lMP7P9G-1" value="" style="image;html=1;image=img/lib/clip_art/general/Lock_128x128.png" parent="1" vertex="1">
           <mxGeometry x="282.76" y="140" width="174.89" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yp1D6IwnU2JelO9IcoEy-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picons-social/57/78-mailchimp-2-128.png;labelBorderColor=none;noLabel=1;fontColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-60" width="91.5" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Yp1D6IwnU2JelO9IcoEy-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/at-sign-128.png;sketch=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-60" width="88" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
